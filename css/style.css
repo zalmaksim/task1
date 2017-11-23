@@ -104,7 +104,7 @@ li{
 	font-size: 17px;
     display: inline-block;
     vertical-align: middle;
-    width: 40%;
+    width: 85%;
 }
 
 .checkbox:checked + .text:before{
